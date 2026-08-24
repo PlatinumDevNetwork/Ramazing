@@ -3,7 +3,7 @@ Built from ShadowV3, **Ramazing** is a secure, unique proxy, with new encryption
 
 ---
 
-# Changes
+## Changes
 - 📈 Update UV to v3, uses eproxy/baremux.
 - 🔧 Improved tabs.js, more optimized, better handling.
 - 💻 Rewrote tabs.js code from scratch for optimizations.
