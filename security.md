@@ -20,12 +20,16 @@ This repo is looked over, in codespaces, in github its self. Whenever you ask a 
 
 ## Declare
 
-We ask that you can test this change and tell us how it will affect the ramazing. This still has to be confirmed by us but if no problems, we will pass it.
+We ask that you can test this change and tell us how it will affect the ramazing. This still has to be confirmed by us but if no problems, we will merge it.
 
 
 
 ## Safety
 
 We NEVER permit any unsafe malicious code in our files, if you are to send malware or unwanted code to our team, we will decline the request and your account will be banned from EVER sending any changes to our repo.
+
+## Issues 
+
+Please report any issues you may have to this repo. We and the community can help you together.
 
 
