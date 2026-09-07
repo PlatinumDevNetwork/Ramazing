@@ -3,3 +3,7 @@
 How it works is you send the request, we have until 2 days from once the request was made until it cant be done. Feel free to re-send. 
 
 We value the work here and ask you don't add any malware. 
+
+### If you dont know how
+
+Just make a fork of the repo and you can "contribute"...
