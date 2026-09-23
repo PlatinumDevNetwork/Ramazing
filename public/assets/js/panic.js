@@ -1,7 +1,7 @@
 // public/assets/js/panic.js
 
 (function() {
-    const safeSite = 'https://wcpss.instructure.com';
+    const safeSite = 'https://google.com';
     const panicKeyCode = 'Equal';
 
     function redirectToSafeSite() {
