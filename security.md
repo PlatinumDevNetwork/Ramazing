@@ -12,7 +12,7 @@ Here is how you are able to help report a vulnerability.
 
 <b>Pull request:</b> Make a fork, edit any files, you can upload to this repo and someone will take a look. Refer to PRcheck.md.
 
-<b>Issues:</b> Report issues, and code that isn't secure.
+<b>Issues:</b> Report issues, and code that isn't secure. <b>Be aware that this might take a long time so you might need to do an email for private reporting.</b>
 
 ## Time limit
 
